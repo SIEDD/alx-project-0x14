@@ -1,14 +1,7 @@
-# Main Project Title
-This is the top-level heading. Use `#` for the largest heading.
-
 ## API Overview
-This is a second-level heading. Use `##` for subheadings.
-
 The MoviesDatabase API allows developers to search for movies, retrieve detailed information, and access user reviews. It supports various endpoints to fetch data based on genre, popularity, and user ratings.
 
 ## Version
-This is another second-level heading.
-
 The current version of the API is `v1.2.0`.
 
 ## Available Endpoints
