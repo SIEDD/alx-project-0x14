@@ -28,13 +28,13 @@ Headers:
 {
   "Authorization": "Bearer YOUR_API_KEY"
 }
-
+```
 ## Authentication
 To use the MoviesDatabase API, you need an API key. Follow these steps to authenticate your requests:
 
 1. Register for an API key on the MoviesDatabase platform.
 2. Include the API key in the `Authorization` header for all requests.
-```
+
 
 ### Example Header
 
@@ -64,13 +64,13 @@ The MoviesDatabase API provides structured error responses to help identify and 
   "status_message": "Invalid API key: You must be granted a valid key.",
   "success": false
 }
-
+```
 ## Usage Limits
 The MoviesDatabase API enforces rate limits to ensure fair usage among all users. These limits vary based on the subscription tier:
 
 - **Free Tier**: Allows up to 100 requests per hour.
 - **Pro Tier**: Allows up to 10,000 requests per hour.
-```
+
 
 ### Monitoring Usage
 - Most API platforms provide a usage dashboard. Use it to monitor your request counts.
